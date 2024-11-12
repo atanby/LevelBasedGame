@@ -1,0 +1,5 @@
+level_number: 17
+grid_width: 5
+grid_height: 4
+move_count: 25
+grid: g,y,b,y,r,g,g,r,y,g,r,y,y,g,r,g,r,r,b,g
